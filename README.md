@@ -1,4 +1,4 @@
 # dynamic-sky-beta
-Public beta builds for dynamic sky. A link to the DevForum post is provided below.
+Public beta builds for dynamic sky. Please provide feedback via discord server using the link below.
 
-(N/A)
+https://discord.gg/Xys8AY3bbp
